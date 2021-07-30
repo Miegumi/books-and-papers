@@ -1,4 +1,11 @@
 # paper-pdf
+
+根目录下有2个文件夹，books和papers，books 文件夹用于存放讨论班所用书籍，papers用于存放讨论班研读论文。
+
+papers文件夹下是"年份-月份-第几周"文件夹，例如，“21-07-4”，论文命名规范为“年份-作者名-论文标题”。
+
+books命名规范为“作者-书籍标题”。
+
 [Wang_Leng_2016_High dimensional ordinary least squares projection for screening variables.pdf](https://github.com/Miegumi/paper-pdf/files/6900649/Wang_Leng_2016_High.dimensional.ordinary.least.squares.projection.for.screening.variables.pdf)
 [Fan, J. and Lv, J. (2008). Sure independence screening for ultrahigh dimensional feature.pdf](https://github.com/Miegumi/paper-pdf/files/6900653/Fan.J.and.Lv.J.2008.Sure.independence.screening.for.ultrahigh.dimensional.feature.pdf)
 [Faraway_2005_Extending the Linear Model With R.pdf](https://github.com/Miegumi/paper-pdf/files/6900654/Faraway_2005_Extending.the.Linear.Model.With.R.pdf)
