@@ -1,11 +1,11 @@
 # paper-pdf
-1.[Wang_Leng_2016_High dimensional ordinary least squares projection for screening variables.pdf](https://github.com/Miegumi/paper-pdf/files/6900649/Wang_Leng_2016_High.dimensional.ordinary.least.squares.projection.for.screening.variables.pdf)
+1.[Wang Leng(2016).High dimensional ordinary least squares projection for screening variables.pdf](https://github.com/Miegumi/paper-pdf/files/6900649/Wang_Leng_2016_High.dimensional.ordinary.least.squares.projection.for.screening.variables.pdf)
 
-2.[Fan, J. and Lv, J. (2008). Sure independence screening for ultrahigh dimensional feature.pdf](https://github.com/Miegumi/paper-pdf/files/6900653/Fan.J.and.Lv.J.2008.Sure.independence.screening.for.ultrahigh.dimensional.feature.pdf)
+2.[Fan, J. and Lv, J. (2008).Sure independence screening for ultrahigh dimensional feature.pdf](https://github.com/Miegumi/paper-pdf/files/6900653/Fan.J.and.Lv.J.2008.Sure.independence.screening.for.ultrahigh.dimensional.feature.pdf)
 
 3.[Faraway_2005_Extending the Linear Model With R.pdf](https://github.com/Miegumi/paper-pdf/files/6900654/Faraway_2005_Extending.the.Linear.Model.With.R.pdf)
 
-4.[Forward+Regression+for+Ultra-High+Dimensional+Variable+Screening.pdf](https://github.com/Miegumi/paper-pdf/files/6900662/Forward%2BRegression%2Bfor%2BUltra-High%2BDimensional%2BVariable%2BScreening.pdf)
+4.[Hansheng Wang(2009).Forward+Regression+for+Ultra-High+Dimensional+Variable+Screening.pdf](https://github.com/Miegumi/paper-pdf/files/6900662/Forward%2BRegression%2Bfor%2BUltra-High%2BDimensional%2BVariable%2BScreening.pdf)
 
 5.[GreeneChapter4.pdf](https://github.com/Miegumi/paper-pdf/files/6900663/GreeneChapter4.pdf)
 
