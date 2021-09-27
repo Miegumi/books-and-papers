@@ -1,0 +1,7 @@
+* 有用的知识连接
+
+- 正态分布的上下界
+
+Upper and lower bounds for the normal distribution function
+
+https://www.johndcook.com/blog/norm-dist-bounds/
